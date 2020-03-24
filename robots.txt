@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://teefutoobi.racecarmath.org/sitemap.xml
